@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Licenta Robotică</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Proiect de Licență - Robotică</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Acasă</a></li>
+                <li><a href="#catalog">Catalog Roboți</a></li>
+                <li><a href="#simulator">Simulator</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Bine ai venit la proiectul meu de licență</h2>
+        <p>Aici vei găsi informații despre roboți industriali și soluții de automatizare.</p>
+    </section>
+    
+    <section id="catalog">
+        <h2>Catalog Roboți</h2>
+        <ul>
+            <li>Robot 1: <strong>KUKA KR 210</strong> - aplicații industriale</li>
+            <li>Robot 2: <strong>ABB IRB 6700</strong> - automatizări complexe</li>
+            <!-- Adaugă mai mulți roboți aici -->
+        </ul>
+    </section>
+
+    <section id="simulator">
+        <h2>Simulator Mișcare Robotică</h2>
+        <p>Accesează o simulare 3D simplă a mișcării unui robot industrial (secțiunea poate fi interactivă cu ajutorul unor tool-uri externe).</p>
+    </section>
+    
+    <footer id="contact">
+        <p>Contact: <a href="mailto:student@numele-tau.com">student@numele-tau.com</a></p>
+    </footer>
+</body>
+</html>
